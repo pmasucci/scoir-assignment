@@ -19,8 +19,11 @@ This repo contains an exercise intended for Full Stack Software Engineers.
 
 ## How-To
 Make sure port 3000 is clear and run `make install` followed by `make run`. Open [the app](http://localhost:3000/) in a browser of your choice.
+
 Username: dogcatcher
+ 
 Password: theyregooddogsbrent
+
 I didn't build an explicit log out workflow, but lists persist on refresh and if you clear the JWT Token from localstorage and log back in.    
 
 ## Assumptions
